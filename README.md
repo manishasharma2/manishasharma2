@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Data Structure and Algorithms.
 - 💞️ I’m looking to collaborate on new Projects.
 - 📫 How to reach me manishasharma192003@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+
 
 <!---
 manishasharma2/manishasharma2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
