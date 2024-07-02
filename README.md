@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manisha Sharma pre final year student of Btech CSE(AIML) at G L Bajaj Mathura.
+- 👋 Hi, I’m Manisha Sharma final year student of Btech CSE(AIML) at G L Bajaj Mathura.
 - 👀 I’m interested in Problem Solving and Web Development.
 - 🌱 I’m currently learning Data Structure and Algorithms.
 - 💞️ I’m looking to collaborate on new Projects.
